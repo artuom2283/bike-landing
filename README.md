@@ -3,10 +3,10 @@
 A responsive landing page for a bike shop, showcasing products, promotions, and contact information.
 
 ## 🚀 Live Demo
-🔗 [Live Preview]([#](https://artuom2283.github.io/bike-landing/))  
+🔗 [Live Preview](https://artuom2283.github.io/bike-landing/)  
 
 ## 🎨 Design Reference
-🖼 [Figma Mockup]([#](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version))  
+🖼 [Figma Mockup](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version)  
 
 ## 🛠 Technologies Used
 📌 The project is built using the following technologies:
