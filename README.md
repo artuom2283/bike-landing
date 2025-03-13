@@ -1,58 +1,61 @@
-"A responsive landing page for a fictional tech conference, showcasing the event schedule, speakers, and ticket purchasing options."
-Demo
-🔗 Live Preview 
+# Bike Landing
 
-(Make sure this is accessible for all users, the best way is to check in incognito mode)
+A responsive landing page for a fictional bike shop, showcasing products, promotions, and contact information.
 
-Design Reference (if applicable)
-🖼 Figma Mockup
+## 🚀 Live Demo
+🔗 [Live Preview]([#](https://artuom2283.github.io/bike-landing/))  
+(Make sure to replace `#` with the actual deployment link)
 
+## 🎨 Design Reference
+🖼 [Figma Mockup](#)  
 (Include this if the project follows a given design)
 
-Technologies Used
-📌 List the key technologies and frameworks you used in the project
+## 🛠 Technologies Used
+📌 The project is built using the following technologies:
 
+- **HTML5** – for structuring content
+- **CSS3 / SCSS** – for styling and responsiveness
+- **JavaScript (ES6+)** – for interactivity
+- **GSAP** – for smooth animations
+- **Webpack** – for bundling assets
+- **Netlify / Vercel** – for deployment (mention the actual service used)
 
+## 📦 Getting Started
+Follow these steps to set up the project locally:
 
-Example:
+### 1️⃣ Clone the repository
+```sh
+git clone https://github.com/artuom2283/bike-landing.git
+cd bike-landing
+```
 
-HTML, CSS, JavaScript
-
-React, Next.js, TypeScript
-
-Styled Components / TailwindCSS
-
-GSAP for animations
-
-Firebase / Supabase
-
-Vercel / Netlify for deployment
-
-Getting Started
-Follow these steps to set up the project locally
-
-1. Clone the repo
-git clone https://github.com/your-username/project-name.git
-cd project-name
-2. Install dependencies
+### 2️⃣ Install dependencies
+```sh
 npm install
 # or
 yarn install
-3. Run the project locally
+```
+
+### 3️⃣ Run the project locally
+```sh
 npm start
 # or
 yarn start
-✨ Features (Optional)
-📌 Highlight key functionalities
+```
 
+## ✨ Features
+📌 Key functionalities of the project:
 
+- 🔥 **Fully responsive design** for all devices
+- 🎨 **Smooth animations** using GSAP
+- ⚡ **Optimized images and lazy loading** for better performance
+- 🌍 **SEO-friendly structure**
 
-Example:
+---
+### 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
 
-🔥 Fully responsive design
+---
 
-🎨 Smooth animations (GSAP, CSS)
+💡 _Feel free to contribute! If you find any issues or have suggestions, open an issue or submit a pull request._
 
-⚡ Optimized images and lazy loading
-
-🌙 Dark mode support
