@@ -12,7 +12,7 @@ A responsive landing page for a bike shop, showcasing products, promotions, and 
 📌 The project is built using the following technologies:
 
 - **HTML5** – for structuring content
-- **CSS3 / SCSS** – for styling and responsiveness
+- **SCSS** – for styling and responsiveness
 - **JavaScript (ES6+)** – for interactivity
 
 ## 📦 Getting Started
