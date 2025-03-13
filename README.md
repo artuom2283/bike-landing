@@ -46,9 +46,7 @@ yarn start
 - ⚡ **Optimized images and lazy loading** for better performance
 - 🌍 **SEO-friendly structure**
 
-### 📄 License
+## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
 
-
 💡 _Feel free to contribute! If you find any issues or have suggestions, open an issue or submit a pull request._
-
